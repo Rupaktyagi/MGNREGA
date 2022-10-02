@@ -147,7 +147,7 @@ public class ExicutionClass {
 				System.out.println("ID of Project                | "+p.getId());
 				System.out.println("Name of Project              | "+p.getName());
 				System.out.println("No Of Employee for Project   | "+p.getId());
-				System.out.println("Project total Budget         | "+p.getId());
+				System.out.println("Project total Budget         | "+p.get.getTotalWages());
 				System.out.println("");
 				System.out.println("::::  =============================  :::");
 				System.out.println("");
